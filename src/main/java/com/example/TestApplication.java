@@ -15,6 +15,7 @@ public class TestApplication {
         System.out.println("这个是master!!!");
         System.out.println("Hello master!!!");
         System.out.println("Hello hot-fix!!! test");
+        System.out.println("我又修改了一次!!!");
     }
 
 }
