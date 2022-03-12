@@ -17,6 +17,7 @@ public class TestApplication {
         System.out.println("Hello hot-fix!!! test");
         System.out.println("我又修改了一次!!!");
         System.out.println("我又又又修改了一次!!!");
+        System.out.println("GitHub项目更新!!!");
     }
 
 }
