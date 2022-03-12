@@ -9,7 +9,7 @@ public class TestController {
 
     @RequestMapping("/gotolog")
     public String fun(){
-
+        System.out.println("Hello git5!!!");
         return "log";
     }
 

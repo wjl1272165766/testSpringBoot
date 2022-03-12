@@ -16,6 +16,7 @@ public class MySecurityConfig extends WebSecurityConfigurerAdapter {
                 .antMatchers("/").permitAll()
                 .antMatchers("/index").permitAll()
                 .antMatchers("/log").hasRole("vip1");
+
     }
 
     @Override
